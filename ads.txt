@@ -1,1 +1,4 @@
 google.com, pub-1760722344175521, DIRECT, f08c47fec0942fa0
+
+//admob
+google.com, pub-7215370286680655, DIRECT, f08c47fec0942fa0
